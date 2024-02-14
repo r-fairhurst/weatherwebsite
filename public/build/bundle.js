@@ -398,9 +398,9 @@ var app = (function () {
     			a = element("a");
     			a.textContent = "Weather";
     			attr_dev(a, "href", "/");
-    			attr_dev(a, "class", "svelte-i8ba9y");
+    			attr_dev(a, "class", "svelte-1y4ryam");
     			add_location(a, file$1, 1, 4, 13);
-    			attr_dev(header, "class", "svelte-i8ba9y");
+    			attr_dev(header, "class", "svelte-1y4ryam");
     			add_location(header, file$1, 0, 0, 0);
     		},
     		l: function claim(nodes) {
@@ -470,7 +470,7 @@ var app = (function () {
     			create_component(header.$$.fragment);
     			t = space();
     			main = element("main");
-    			attr_dev(main, "class", "svelte-1rris0i");
+    			attr_dev(main, "class", "svelte-6hmj47");
     			add_location(main, file, 6, 0, 71);
     		},
     		l: function claim(nodes) {

@@ -5,7 +5,7 @@
 <style type="text/scss">
     header {
         overflow: hidden;
-        background-color: blue;
+        background-color: darkblue;
         font-family: Arial;
         text-align: center;
         padding: 1rem;
